@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Brian
+-  Hello, I’m @Brian
+-  
+- Programmer
 - 
-- 🌱 I’m currently learning Kotlin/HTML/CSS 
-- 💞️ I’m looking to collaborate on Android projects 
-- 📫 Reach out
+- Developing websites using html/css
+-  Multiplatform development using Kotlin
+-  I’m looking to collaborate on open source projects and challenges
+
